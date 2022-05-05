@@ -8,6 +8,6 @@ Unity3D
 
 Portfolio
 
-Solved solved.ac/profile/dnj456 ##
+Solved https://solved.ac/profile/dnj456 #첫 방문 시 404에러뜸 재방문 혹은 사이트 내 검색필요#
 
 Unity3D (C#) 1. https://www.youtube.com/watch?v=NhCPcPNzog0&ab_channel=%EC%B5%9C%EB%91%90%EC%98%81
