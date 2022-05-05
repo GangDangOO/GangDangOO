@@ -8,4 +8,6 @@ Unity3D
 
 Portfolio
 
+Solved https://solved.ac/profile/dnj456 ##
+
 Unity3D (C#) 1. https://www.youtube.com/watch?v=NhCPcPNzog0&ab_channel=%EC%B5%9C%EB%91%90%EC%98%81
