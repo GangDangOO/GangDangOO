@@ -8,6 +8,6 @@ Unity3D
 
 Portfolio
 
-Solved https://solved.ac/profile/dnj456 #간혹 첫 방문 시 404에러뜸 새로고침 
+Solved https://solved.ac/profile/dnj456 #간혹 첫 방문 시 404에러뜸 새로고침 필요
 
 Unity3D (C#) 1. https://www.youtube.com/watch?v=NhCPcPNzog0&ab_channel=%EC%B5%9C%EB%91%90%EC%98%81
