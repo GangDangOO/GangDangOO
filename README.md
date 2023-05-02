@@ -2,6 +2,3 @@
 
 Languege 
 C#, C++, Python, java, hlsl
-
-GameEngine
-Unity3D
